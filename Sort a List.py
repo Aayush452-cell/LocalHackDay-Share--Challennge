@@ -1,3 +1,4 @@
+# Sorting A List using Merge Sort in Python(Local Hack Day 3rd Day Challenge)
 def mergeSort(myList):
     if len(myList) > 1:
         mid = len(myList) // 2
